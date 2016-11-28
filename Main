@@ -1,0 +1,13 @@
+public class Principale {
+    
+ // encor bcp de choses a faire dans la main //  
+    
+  
+	public static void main(String[] args) {
+	
+	Personne p0 = new Personne("Durant","Olivier",25,00,00); 
+	p0.Afficher();
+
+	}
+
+}
